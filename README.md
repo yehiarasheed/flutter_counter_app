@@ -68,5 +68,6 @@ To install and run this Flutter app locally, follow these steps:
     ```bash
     flutter run
     ```
+I advise the use of an emulator or connected device for better visuals.
 
 ---
