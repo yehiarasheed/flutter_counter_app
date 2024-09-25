@@ -11,7 +11,7 @@ The app consists of a central display showing the current count and three button
 
 ### Screenshots
 
-![Flutter Counter App](https://github.com/user-attachments/assets/cef57db9-886b-43ec-b521-252edf51e51d)
+![Flutter Counter App](https://github.com/user-attachments/assets/6033dc27-a206-49dc-b339-9f4603daeca0)
 
 
 ## Features
